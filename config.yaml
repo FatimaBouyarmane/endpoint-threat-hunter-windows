@@ -1,0 +1,5 @@
+api_keys:
+  abuseipdb: "cff5da31d27788e120370395da27d5a1c7e498cd5ecb7e05ef19dbfd9b41b945071e437da5cc3d49"
+
+thresholds:
+  failed_logins: 5
