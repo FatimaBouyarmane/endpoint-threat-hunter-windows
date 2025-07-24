@@ -16,7 +16,7 @@ def get_failed_logins(server='localhost', log_type='Security', max_events=20):
                 # Try safer IP extraction
                 if event.StringInserts:
                     for item in event.StringInserts:
-                        if item and item.count('.') == 3:  # crude IP check
+                        if item and item.count('.') == 3: 
                             ip = item
                             break
                 failed_logins.append({
