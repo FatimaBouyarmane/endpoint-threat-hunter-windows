@@ -24,14 +24,3 @@ python main.py
 ---
 
 This starter will let you autonomously detect brute force attempts on Windows, enrich data with threat intel, and produce a simple report your team can use immediately.
-
----
-
-If you want, I can help you extend this with:
-
-- Parsing PowerShell logs  
-- Detecting suspicious process creations  
-- Parsing scheduled task creations  
-- Adding richer report/dashboards
-
-Just ask!
